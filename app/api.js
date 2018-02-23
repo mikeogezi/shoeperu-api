@@ -115,11 +115,12 @@ module.exports = {
         }
 
         shopstyle.products(options)
-            .then((res) => {
-                for (let i in res.products) {
-                    res.products[i] = new Product(res.products[i]).toLeanJSON()
+            .then((sres) => {
+                for (let i in sres.products) {
+                    sres.products[i] = new Product(sres.products[i]).toLeanJSON()
+                    sres.products[i].price = usdToNaira(sres.products[i].price)
                 }
-                res.status(200).json(res)
+                res.status(200).json(sres)
             })
             .catch((err) => {
                 console.error(err)
@@ -135,11 +136,12 @@ module.exports = {
         }
 
         shopstyle.products(options)
-            .then((res) => {
-                for (let i in res.products) {
-                    res.products[i] = new Product(res.products[i]).toLeanJSON()
+            .then((sres) => {
+                for (let i in sres.products) {
+                    sres.products[i] = new Product(sres.products[i]).toLeanJSON()
+                    sres.products[i].price = usdToNaira(sres.products[i].price)
                 }
-                res.status(200).json(res)
+                res.status(200).json(sres)
             })
             .catch((err) => {
                 console.error(err)
