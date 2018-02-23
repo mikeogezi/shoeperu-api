@@ -1,0 +1,7 @@
+{
+    "name": "Shoeperu API",
+    "description": "Shoeperu API Server",
+    "repository": "https://github.com/okibeogezi/shoeperu_api_server",
+    "keywords": ["Shoeperu", "Server", "API"],
+    "image": "heroku/nodejs"
+}

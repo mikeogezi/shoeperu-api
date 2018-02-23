@@ -1,0 +1,30 @@
+{
+  "name": "shoeperu_backend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "NODE_ENV=production node app.js",
+    "debug": "NODE_ENV=development node app.js",
+    "populateDB": "node scripts/populateDatastore.js",
+    "cleanDB": "node scripts/cleanDatastoreByImage.js; node scripts/cleanDatastoreById.js",
+    "populateML": "node ./scripts/populateWithAlreadyIndexed.js; node scripts/populateMLDatastore.js",
+    "build": "npm run-script populateDB; npm run-script cleanDB; npm run-script populateML"
+  },
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "clarifai": "^2.6.0",
+    "compression": "^1.7.1",
+    "cookie-parser": "1.4.3",
+    "express": "4.14.0",
+    "ms": "0.7.1",
+    "multer": "^1.2.1",
+    "nedb": "^1.8.0",
+    "nodemailer": "2.7.0",
+    "pug": "2.0.0-beta6",
+    "request": "^2.83.0",
+    "serve-favicon": "2.3.2",
+    "shopstyle-sdk": "^1.1.1",
+    "underscore": "^1.8.3"
+  }
+}

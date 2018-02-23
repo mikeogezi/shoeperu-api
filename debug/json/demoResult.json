@@ -1,0 +1,591 @@
+
+{
+    "metadata": {
+      "offset": 0,
+      "limit": 1,
+      "total": 8046,
+      "category": {
+        "id": "dresses",
+        "name": "Dresses",
+        "shortName": "Dresses",
+        "localizedIds": {
+          "ja-JP": "\u30ef\u30f3\u30d4\u30fc\u30b9-\u30c9\u30ec\u30b9",
+          "de-DE": "kleider",
+          "fr-FR": "robes-femmes",
+          "en-AU": "dresses",
+          "en-GB": "dresses",
+          "en-CA": "dresses",
+          "en-US": "dresses"
+        },
+        "localizedId": "dresses",
+        "numId": 26
+      },
+      "showSizeFilter": true,
+      "showColorFilter": true,
+      "showHeelHeightFilter": false,
+      "freeTextSearches": [
+        "red dress"
+      ]
+    },
+    "products": [
+      {
+        "id": 455813874,
+        "name": "Lanvin Stretch-scuba jersey dress",
+        "brandedName": "Lanvin Stretch-scuba jersey dress",
+        "unbrandedName": "Stretch-scuba jersey dress",
+        "currency": "USD",
+        "priceLabel": "$2,580.00",
+        "inStock": true,
+        "retailer": {
+          "id": "27",
+          "name": "NET-A-PORTER.COM",
+          "mobileOptimized": false,
+          "logo": {
+            "sizes": {
+              "featured": {
+                "sizeName": "featured",
+                "url": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-featured.png"
+              },
+              "default@2x": {
+                "sizeName": "default@2x",
+                "url": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-default@2x.png"
+              },
+              "default": {
+                "sizeName": "default",
+                "url": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-default.png"
+              },
+              "mobile@2x": {
+                "sizeName": "mobile@2x",
+                "url": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-mobile@2x.png"
+              },
+              "featured@2x": {
+                "sizeName": "featured@2x",
+                "url": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-featured@2x.png"
+              },
+              "mobile": {
+                "sizeName": "mobile",
+                "url": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-mobile.png"
+              }
+            }
+          },
+          "userId": 24974087,
+          "userHandle": "NetAPorterCom",
+          "userImage": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-default@2x.png",
+          "urlIdentifier": "NET-A-PORTER.COM-US",
+          "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/NET-A-PORTER.COM-US.ico"
+        },
+        "brand": {
+          "id": "1487",
+          "name": "Lanvin",
+          "userId": 24958477,
+          "userHandle": "Lanvin",
+          "userImage": "http://resources.shopstyle.com/im/default-avatar-lg.png",
+          "urlIdentifier": "Lanvin"
+        },
+        "locale": "en_US",
+        "description": "Lanvin's sculpting red dress fits closely to the body to flatter and smooth every curve. It's made from soft scuba-jersey with plenty of stretch to ensure flexibility. Seams at the waist create an elegant lengthening effect.",
+        "clickUrl": "http://www.shopstyle.com/action/loadRetailerProductPage?id=455813874",
+        "pageUrl": "http://www.shopstyle.com/p/lanvin-stretch-scuba-jersey-dress/455813874",
+        "image": {
+          "id": "f837c5bbca73320dc42def65e9dda512",
+          "sizes": {
+            "Medium": {
+              "sizeName": "Medium",
+              "width": 112,
+              "height": 140,
+              "url": "http://resources.shopstyle.com/sim/f8/37/f837c5bbca73320dc42def65e9dda512_medium/lanvin-stretch-scuba-jersey-dress.jpg",
+              "actualWidth": 51,
+              "actualHeight": 140
+            },
+            "Original": {
+              "sizeName": "Original",
+              "url": "http://bim.shopstyle.com/pim/f8/37/f837c5bbca73320dc42def65e9dda512_best.jpg",
+              "actualWidth": 251,
+              "actualHeight": 690
+            },
+            "IPhoneSmall": {
+              "sizeName": "IPhoneSmall",
+              "width": 100,
+              "height": 125,
+              "url": "http://resources.shopstyle.com/mim/f8/37/f837c5bbca73320dc42def65e9dda512_small.jpg",
+              "actualWidth": 45,
+              "actualHeight": 125
+            },
+            "Best": {
+              "sizeName": "Best",
+              "width": 720,
+              "height": 900,
+              "url": "http://bim.shopstyle.com/pim/f8/37/f837c5bbca73320dc42def65e9dda512_best.jpg",
+              "actualWidth": 251,
+              "actualHeight": 690
+            },
+            "XLarge": {
+              "sizeName": "XLarge",
+              "width": 328,
+              "height": 410,
+              "url": "http://resources.shopstyle.com/xim/f8/37/f837c5bbca73320dc42def65e9dda512.jpg",
+              "actualWidth": 149,
+              "actualHeight": 410
+            },
+            "Large": {
+              "sizeName": "Large",
+              "width": 164,
+              "height": 205,
+              "url": "http://resources.shopstyle.com/sim/f8/37/f837c5bbca73320dc42def65e9dda512/lanvin-stretch-scuba-jersey-dress.jpg",
+              "actualWidth": 75,
+              "actualHeight": 205
+            },
+            "Small": {
+              "sizeName": "Small",
+              "width": 32,
+              "height": 40,
+              "url": "http://resources.shopstyle.com/pim/f8/37/f837c5bbca73320dc42def65e9dda512_small.jpg",
+              "actualWidth": 15,
+              "actualHeight": 40
+            },
+            "IPhone": {
+              "sizeName": "IPhone",
+              "width": 288,
+              "height": 360,
+              "url": "http://resources.shopstyle.com/mim/f8/37/f837c5bbca73320dc42def65e9dda512.jpg",
+              "actualWidth": 131,
+              "actualHeight": 360
+            }
+          }
+        },
+        "alternateImages": [
+          {
+            "id": "f837c5bbca73320dc42def65e9dda512",
+            "sizes": {
+              "Medium": {
+                "sizeName": "Medium",
+                "width": 112,
+                "height": 140,
+                "url": "http://resources.shopstyle.com/sim/f8/37/f837c5bbca73320dc42def65e9dda512_medium/lanvin-stretch-scuba-jersey-dress.jpg",
+                "actualWidth": 51,
+                "actualHeight": 140
+              },
+              "Original": {
+                "sizeName": "Original",
+                "url": "http://bim.shopstyle.com/pim/f8/37/f837c5bbca73320dc42def65e9dda512_best.jpg",
+                "actualWidth": 251,
+                "actualHeight": 690
+              },
+              "IPhoneSmall": {
+                "sizeName": "IPhoneSmall",
+                "width": 100,
+                "height": 125,
+                "url": "http://resources.shopstyle.com/mim/f8/37/f837c5bbca73320dc42def65e9dda512_small.jpg",
+                "actualWidth": 45,
+                "actualHeight": 125
+              },
+              "Best": {
+                "sizeName": "Best",
+                "width": 720,
+                "height": 900,
+                "url": "http://bim.shopstyle.com/pim/f8/37/f837c5bbca73320dc42def65e9dda512_best.jpg",
+                "actualWidth": 251,
+                "actualHeight": 690
+              },
+              "XLarge": {
+                "sizeName": "XLarge",
+                "width": 328,
+                "height": 410,
+                "url": "http://resources.shopstyle.com/xim/f8/37/f837c5bbca73320dc42def65e9dda512.jpg",
+                "actualWidth": 149,
+                "actualHeight": 410
+              },
+              "Large": {
+                "sizeName": "Large",
+                "width": 164,
+                "height": 205,
+                "url": "http://resources.shopstyle.com/sim/f8/37/f837c5bbca73320dc42def65e9dda512/lanvin-stretch-scuba-jersey-dress.jpg",
+                "actualWidth": 75,
+                "actualHeight": 205
+              },
+              "Small": {
+                "sizeName": "Small",
+                "width": 32,
+                "height": 40,
+                "url": "http://resources.shopstyle.com/pim/f8/37/f837c5bbca73320dc42def65e9dda512_small.jpg",
+                "actualWidth": 15,
+                "actualHeight": 40
+              },
+              "IPhone": {
+                "sizeName": "IPhone",
+                "width": 288,
+                "height": 360,
+                "url": "http://resources.shopstyle.com/mim/f8/37/f837c5bbca73320dc42def65e9dda512.jpg",
+                "actualWidth": 131,
+                "actualHeight": 360
+              }
+            }
+          },
+          {
+            "id": "d1aa5f02da7957a54cd07952cf18f99f",
+            "sizes": {
+              "Medium": {
+                "sizeName": "Medium",
+                "width": 112,
+                "height": 140,
+                "url": "http://resources.shopstyle.com/sim/d1/aa/d1aa5f02da7957a54cd07952cf18f99f_medium/lanvin-stretch-scuba-jersey-dress.jpg",
+                "actualWidth": 93,
+                "actualHeight": 140
+              },
+              "Original": {
+                "sizeName": "Original",
+                "url": "http://bim.shopstyle.com/pim/d1/aa/d1aa5f02da7957a54cd07952cf18f99f_best.jpg",
+                "actualWidth": 460,
+                "actualHeight": 690
+              },
+              "IPhoneSmall": {
+                "sizeName": "IPhoneSmall",
+                "width": 100,
+                "height": 125,
+                "url": "http://resources.shopstyle.com/mim/d1/aa/d1aa5f02da7957a54cd07952cf18f99f_small.jpg",
+                "actualWidth": 83,
+                "actualHeight": 125
+              },
+              "Best": {
+                "sizeName": "Best",
+                "width": 720,
+                "height": 900,
+                "url": "http://bim.shopstyle.com/pim/d1/aa/d1aa5f02da7957a54cd07952cf18f99f_best.jpg",
+                "actualWidth": 460,
+                "actualHeight": 690
+              },
+              "XLarge": {
+                "sizeName": "XLarge",
+                "width": 328,
+                "height": 410,
+                "url": "http://resources.shopstyle.com/xim/d1/aa/d1aa5f02da7957a54cd07952cf18f99f.jpg",
+                "actualWidth": 273,
+                "actualHeight": 410
+              },
+              "Large": {
+                "sizeName": "Large",
+                "width": 164,
+                "height": 205,
+                "url": "http://resources.shopstyle.com/sim/d1/aa/d1aa5f02da7957a54cd07952cf18f99f/lanvin-stretch-scuba-jersey-dress.jpg",
+                "actualWidth": 137,
+                "actualHeight": 205
+              },
+              "Small": {
+                "sizeName": "Small",
+                "width": 32,
+                "height": 40,
+                "url": "http://resources.shopstyle.com/pim/d1/aa/d1aa5f02da7957a54cd07952cf18f99f_small.jpg",
+                "actualWidth": 27,
+                "actualHeight": 40
+              },
+              "IPhone": {
+                "sizeName": "IPhone",
+                "width": 288,
+                "height": 360,
+                "url": "http://resources.shopstyle.com/mim/d1/aa/d1aa5f02da7957a54cd07952cf18f99f.jpg",
+                "actualWidth": 240,
+                "actualHeight": 360
+              }
+            }
+          },
+          {
+            "id": "2a8b3b394f94b6cfc61af77a84a12a12",
+            "sizes": {
+              "Medium": {
+                "sizeName": "Medium",
+                "width": 112,
+                "height": 140,
+                "url": "http://resources.shopstyle.com/sim/2a/8b/2a8b3b394f94b6cfc61af77a84a12a12_medium/lanvin-stretch-scuba-jersey-dress.jpg",
+                "actualWidth": 93,
+                "actualHeight": 140
+              },
+              "Original": {
+                "sizeName": "Original",
+                "url": "http://bim.shopstyle.com/pim/2a/8b/2a8b3b394f94b6cfc61af77a84a12a12_best.jpg",
+                "actualWidth": 460,
+                "actualHeight": 690
+              },
+              "IPhoneSmall": {
+                "sizeName": "IPhoneSmall",
+                "width": 100,
+                "height": 125,
+                "url": "http://resources.shopstyle.com/mim/2a/8b/2a8b3b394f94b6cfc61af77a84a12a12_small.jpg",
+                "actualWidth": 83,
+                "actualHeight": 125
+              },
+              "Best": {
+                "sizeName": "Best",
+                "width": 720,
+                "height": 900,
+                "url": "http://bim.shopstyle.com/pim/2a/8b/2a8b3b394f94b6cfc61af77a84a12a12_best.jpg",
+                "actualWidth": 460,
+                "actualHeight": 690
+              },
+              "XLarge": {
+                "sizeName": "XLarge",
+                "width": 328,
+                "height": 410,
+                "url": "http://resources.shopstyle.com/xim/2a/8b/2a8b3b394f94b6cfc61af77a84a12a12.jpg",
+                "actualWidth": 273,
+                "actualHeight": 410
+              },
+              "Large": {
+                "sizeName": "Large",
+                "width": 164,
+                "height": 205,
+                "url": "http://resources.shopstyle.com/sim/2a/8b/2a8b3b394f94b6cfc61af77a84a12a12/lanvin-stretch-scuba-jersey-dress.jpg",
+                "actualWidth": 137,
+                "actualHeight": 205
+              },
+              "Small": {
+                "sizeName": "Small",
+                "width": 32,
+                "height": 40,
+                "url": "http://resources.shopstyle.com/pim/2a/8b/2a8b3b394f94b6cfc61af77a84a12a12_small.jpg",
+                "actualWidth": 27,
+                "actualHeight": 40
+              },
+              "IPhone": {
+                "sizeName": "IPhone",
+                "width": 288,
+                "height": 360,
+                "url": "http://resources.shopstyle.com/mim/2a/8b/2a8b3b394f94b6cfc61af77a84a12a12.jpg",
+                "actualWidth": 240,
+                "actualHeight": 360
+              }
+            }
+          },
+          {
+            "id": "8e6c908408d30d97be3dd14b676f6433",
+            "sizes": {
+              "Medium": {
+                "sizeName": "Medium",
+                "width": 112,
+                "height": 140,
+                "url": "http://resources.shopstyle.com/sim/8e/6c/8e6c908408d30d97be3dd14b676f6433_medium/lanvin-stretch-scuba-jersey-dress.jpg",
+                "actualWidth": 93,
+                "actualHeight": 140
+              },
+              "Original": {
+                "sizeName": "Original",
+                "url": "http://bim.shopstyle.com/pim/8e/6c/8e6c908408d30d97be3dd14b676f6433_best.jpg",
+                "actualWidth": 460,
+                "actualHeight": 690
+              },
+              "IPhoneSmall": {
+                "sizeName": "IPhoneSmall",
+                "width": 100,
+                "height": 125,
+                "url": "http://resources.shopstyle.com/mim/8e/6c/8e6c908408d30d97be3dd14b676f6433_small.jpg",
+                "actualWidth": 83,
+                "actualHeight": 125
+              },
+              "Best": {
+                "sizeName": "Best",
+                "width": 720,
+                "height": 900,
+                "url": "http://bim.shopstyle.com/pim/8e/6c/8e6c908408d30d97be3dd14b676f6433_best.jpg",
+                "actualWidth": 460,
+                "actualHeight": 690
+              },
+              "XLarge": {
+                "sizeName": "XLarge",
+                "width": 328,
+                "height": 410,
+                "url": "http://resources.shopstyle.com/xim/8e/6c/8e6c908408d30d97be3dd14b676f6433.jpg",
+                "actualWidth": 273,
+                "actualHeight": 410
+              },
+              "Large": {
+                "sizeName": "Large",
+                "width": 164,
+                "height": 205,
+                "url": "http://resources.shopstyle.com/sim/8e/6c/8e6c908408d30d97be3dd14b676f6433/lanvin-stretch-scuba-jersey-dress.jpg",
+                "actualWidth": 137,
+                "actualHeight": 205
+              },
+              "Small": {
+                "sizeName": "Small",
+                "width": 32,
+                "height": 40,
+                "url": "http://resources.shopstyle.com/pim/8e/6c/8e6c908408d30d97be3dd14b676f6433_small.jpg",
+                "actualWidth": 27,
+                "actualHeight": 40
+              },
+              "IPhone": {
+                "sizeName": "IPhone",
+                "width": 288,
+                "height": 360,
+                "url": "http://resources.shopstyle.com/mim/8e/6c/8e6c908408d30d97be3dd14b676f6433.jpg",
+                "actualWidth": 240,
+                "actualHeight": 360
+              }
+            }
+          },
+          {
+            "id": "02e5ed246ef41e4d7a489fd6f5f60495",
+            "sizes": {
+              "Medium": {
+                "sizeName": "Medium",
+                "width": 112,
+                "height": 140,
+                "url": "http://resources.shopstyle.com/sim/02/e5/02e5ed246ef41e4d7a489fd6f5f60495_medium/lanvin-stretch-scuba-jersey-dress.jpg",
+                "actualWidth": 93,
+                "actualHeight": 140
+              },
+              "Original": {
+                "sizeName": "Original",
+                "url": "http://bim.shopstyle.com/pim/02/e5/02e5ed246ef41e4d7a489fd6f5f60495_best.jpg",
+                "actualWidth": 460,
+                "actualHeight": 690
+              },
+              "IPhoneSmall": {
+                "sizeName": "IPhoneSmall",
+                "width": 100,
+                "height": 125,
+                "url": "http://resources.shopstyle.com/mim/02/e5/02e5ed246ef41e4d7a489fd6f5f60495_small.jpg",
+                "actualWidth": 83,
+                "actualHeight": 125
+              },
+              "Best": {
+                "sizeName": "Best",
+                "width": 720,
+                "height": 900,
+                "url": "http://bim.shopstyle.com/pim/02/e5/02e5ed246ef41e4d7a489fd6f5f60495_best.jpg",
+                "actualWidth": 460,
+                "actualHeight": 690
+              },
+              "XLarge": {
+                "sizeName": "XLarge",
+                "width": 328,
+                "height": 410,
+                "url": "http://resources.shopstyle.com/xim/02/e5/02e5ed246ef41e4d7a489fd6f5f60495.jpg",
+                "actualWidth": 273,
+                "actualHeight": 410
+              },
+              "Large": {
+                "sizeName": "Large",
+                "width": 164,
+                "height": 205,
+                "url": "http://resources.shopstyle.com/sim/02/e5/02e5ed246ef41e4d7a489fd6f5f60495/lanvin-stretch-scuba-jersey-dress.jpg",
+                "actualWidth": 137,
+                "actualHeight": 205
+              },
+              "Small": {
+                "sizeName": "Small",
+                "width": 32,
+                "height": 40,
+                "url": "http://resources.shopstyle.com/pim/02/e5/02e5ed246ef41e4d7a489fd6f5f60495_small.jpg",
+                "actualWidth": 27,
+                "actualHeight": 40
+              },
+              "IPhone": {
+                "sizeName": "IPhone",
+                "width": 288,
+                "height": 360,
+                "url": "http://resources.shopstyle.com/mim/02/e5/02e5ed246ef41e4d7a489fd6f5f60495.jpg",
+                "actualWidth": 240,
+                "actualHeight": 360
+              }
+            }
+          }
+        ],
+        "seeMoreLabel": "Lanvin Dresses",
+        "seeMoreUrl": "http://www.shopstyle.com/browse/dresses/Lanvin?pid=shopstyle",
+        "price": 2580,
+        "urlIdentifier": "lanvin-stretch-scuba-jersey-dress",
+        "colors": [
+          {
+            "name": "Red",
+            "canonicalColors": [
+              {
+                "id": "7",
+                "name": "Red",
+                "rank": 1
+              }
+            ]
+          }
+        ],
+        "sizes": [
+          {
+            "name": "FR34"
+          },
+          {
+            "name": "FR36"
+          }
+        ],
+        "categories": [
+          {
+            "id": "dresses",
+            "name": "Dresses",
+            "shortName": "Dresses",
+            "localizedId": "dresses",
+            "numId": 26
+          }
+        ],
+        "extractDate": "2014-07-23",
+        "badges": [
+  
+        ],
+        "promotionalDeal": {
+          "id": 111677,
+          "type": "FreeShipping",
+          "typeLabel": "Free Shipping",
+          "title": "Free Shipping & Returns",
+          "retailer": {
+            "id": "27",
+            "name": "NET-A-PORTER.COM",
+            "deeplinkSupport": true,
+            "hostDomain": "net-a-porter.com",
+            "mobileOptimized": false,
+            "logo": {
+              "sizes": {
+                "featured": {
+                  "sizeName": "featured",
+                  "url": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-featured.png"
+                },
+                "default@2x": {
+                  "sizeName": "default@2x",
+                  "url": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-default@2x.png"
+                },
+                "default": {
+                  "sizeName": "default",
+                  "url": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-default.png"
+                },
+                "mobile@2x": {
+                  "sizeName": "mobile@2x",
+                  "url": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-mobile@2x.png"
+                },
+                "featured@2x": {
+                  "sizeName": "featured@2x",
+                  "url": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-featured@2x.png"
+                },
+                "mobile": {
+                  "sizeName": "mobile",
+                  "url": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-mobile.png"
+                }
+              }
+            },
+            "userId": 24974087,
+            "userHandle": "NetAPorterCom",
+            "userImage": "http://resources.shopstyle.com/im/retailers/logos/Net-A-Porter-default@2x.png",
+            "urlIdentifier": "NET-A-PORTER.COM-US",
+            "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/NET-A-PORTER.COM-US.ico"
+          },
+          "startDate": {
+            "date": "2013-11-26",
+            "timestamp": 1385449200,
+            "friendly": "Nov 26, 2013"
+          },
+          "endDate": {
+            "date": "2015-01-01",
+            "timestamp": 1420095540,
+            "friendly": "Wed, Dec 31"
+          }
+        },
+        "favoriteCount": 1,
+        "commentCount": 0,
+        "hasFavorite": false
+      }
+    ]
+  }
